@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BerlinckE!
-- 👀 I’m interested in Web Development.
+- 👀 I’m working with Web Development.
 - 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me: @berlinck.erick on Instagram.
+- 📫 @dev.eberlinck on Instagram.
+- 🎥 https://www.youtube.com/@deveberlinck on Youtube
 
 <!---
 BerlinckE/BerlinckE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
