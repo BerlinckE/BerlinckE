@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BerlinckE!
+- 👋 Hi, I’m Erick Berlinck!
 - 👀 I’m working with Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 📫 @dev.eberlinck on Instagram.
